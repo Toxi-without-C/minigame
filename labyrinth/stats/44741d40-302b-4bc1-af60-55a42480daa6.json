@@ -1,0 +1,44 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:prismarine": 1,
+      "minecraft:grass_block": 4,
+      "minecraft:redstone_block": 1,
+      "minecraft:emerald_block": 1,
+      "minecraft:waxed_exposed_copper_bulb": 1,
+      "minecraft:weathered_copper": 27,
+      "minecraft:dark_prismarine": 3,
+      "minecraft:glow_ink_sac": 1,
+      "minecraft:structure_block": 8,
+      "minecraft:lectern": 8,
+      "minecraft:prismarine_bricks": 2,
+      "minecraft:mangrove_door": 1,
+      "minecraft:resin_block": 1,
+      "minecraft:oak_sign": 1,
+      "minecraft:mangrove_trapdoor": 1,
+      "minecraft:chiseled_red_sandstone": 1,
+      "minecraft:shroomlight": 12,
+      "minecraft:weathered_cut_copper": 27,
+      "minecraft:red_dye": 1,
+      "minecraft:red_sandstone": 14,
+      "minecraft:oxidized_cut_copper_stairs": 2,
+      "minecraft:weathered_chiseled_copper": 1,
+      "minecraft:gold_block": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 6586,
+      "minecraft:time_since_rest": 25093,
+      "minecraft:walk_one_cm": 37956,
+      "minecraft:total_world_time": 30189,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 27096,
+      "minecraft:crouch_one_cm": 336,
+      "minecraft:sneak_time": 272,
+      "minecraft:play_time": 26478,
+      "minecraft:deaths": 4,
+      "minecraft:jump": 105,
+      "minecraft:time_since_death": 25069
+    }
+  },
+  "DataVersion": 4671
+}
