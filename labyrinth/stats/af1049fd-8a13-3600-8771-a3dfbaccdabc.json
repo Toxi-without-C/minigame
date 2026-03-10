@@ -1,0 +1,57 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:oak_sign": 1,
+      "minecraft:prismarine_bricks": 2,
+      "minecraft:wooden_sword": 1,
+      "minecraft:dark_prismarine": 2,
+      "minecraft:torch": 2,
+      "minecraft:mangrove_door": 1
+    },
+    "minecraft:used": {
+      "minecraft:prismarine": 222,
+      "minecraft:redstone_block": 2,
+      "minecraft:oxidized_copper_bulb": 5,
+      "minecraft:weathered_copper": 98,
+      "minecraft:red_carpet": 176,
+      "minecraft:dark_prismarine": 232,
+      "minecraft:waxed_copper_bulb": 2,
+      "minecraft:redstone_lamp": 1,
+      "minecraft:lectern": 1,
+      "minecraft:prismarine_bricks": 1871,
+      "minecraft:mangrove_door": 26,
+      "minecraft:writable_book": 2,
+      "minecraft:oak_sign": 2,
+      "minecraft:mangrove_trapdoor": 83,
+      "minecraft:chiseled_red_sandstone": 3,
+      "minecraft:shroomlight": 43,
+      "minecraft:chest": 3,
+      "minecraft:weathered_cut_copper": 230,
+      "minecraft:prismarine_brick_stairs": 376,
+      "minecraft:red_sandstone": 321,
+      "minecraft:oxidized_cut_copper_stairs": 537,
+      "minecraft:torch": 81
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 141617,
+      "minecraft:walk_one_cm": 185205,
+      "minecraft:leave_game": 1,
+      "minecraft:interact_with_lectern": 3,
+      "minecraft:play_time": 141617,
+      "minecraft:jump": 178,
+      "minecraft:time_since_death": 141617,
+      "minecraft:drop": 4,
+      "minecraft:sprint_one_cm": 24925,
+      "minecraft:open_chest": 5,
+      "minecraft:total_world_time": 146476,
+      "minecraft:fly_one_cm": 224734,
+      "minecraft:crouch_one_cm": 827,
+      "minecraft:sneak_time": 2243
+    },
+    "minecraft:dropped": {
+      "minecraft:prismarine_bricks": 2,
+      "minecraft:dark_prismarine": 2
+    }
+  },
+  "DataVersion": 4671
+}
